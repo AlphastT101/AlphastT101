@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AlphasT101</h1>
-<h3 align="center">Konnichiwa, pro at most of the things I have tried</h3>
+<h3 align="center">Konnichiwa,I am pro at most of the things I have tried</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphastt101&label=Profile%20views&color=0e75b6&style=flat" alt="alphastt101" /> </p>
 
