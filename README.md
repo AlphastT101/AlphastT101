@@ -7,38 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/alphast101" target="blank"><img src="https://img.shields.io/twitter/follow/alphast101?logo=twitter&style=for-the-badge" alt="alphast101" /></a> </p>
 
-- 🔭 I’m currently working on [XET](https://xet.one)
+- 📫 My eMaIl: *anlexalphast@gmail.com*
+- 📄 My site and things: [https://owner.xet.one](https://owner.xet.one)
+- ⚡fact: *I drove a vehicle at 190km/h*
 
-- 🌱 I’m currently learning *C family*
-
-- 👯 I’m looking to collaborate on [Jexactyl](https://www.jexactyl.com/)
-
-- 🤝 I’m looking for help with [XET](https://xet.one)
-
-- 👨‍💻 All of my projects are available at [https://owner.xet.one](https://owner.xet.one)
-
-- 📝 I regularly write articles on [https://owner.xet.one](https://owner.xet.one)
-
-- 💬 Ask me about *Python, discord.py,*
-
-- 📫 How to reach me *anlexalphast@gmail.com*
-
-- 📄 Know about my experiences [https://owner.xet.one](https://owner.xet.one)
-
-- ⚡ Fun fact *I am a cool minded & friendly person :)*
-
+ My primary coding language is python, I can code websites as well. My most popular project is [XET](https://xet.one). Trying to learn Rust and other things, I am currently a student.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alphast101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alphast101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alphast101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alphast101" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alphast101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alphast101" height="30" width="40" /></a>
-<a href="https://codesandbox.com/alphast101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alphast101" height="30" width="40" /></a>
 <a href="https://fb.com/alphast101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alphast101" height="30" width="40" /></a>
 <a href="https://instagram.com/alphast101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alphast101" height="30" width="40" /></a>
-<a href="https://medium.com/@alphast101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alphast101" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/alphast101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alphast101" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/alphast101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alphast101" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alphast101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alphast101" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/hmMBe8YyJ4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/hmMBe8YyJ4" height="30" width="40" /></a>
 <a href="/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="none" height="30" width="40" /></a>
