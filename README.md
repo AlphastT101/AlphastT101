@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphastt101&show_icons=true&locale=en&layout=compact" alt="alphastt101" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphastt101&show_icons=true&locale=en" alt="alphastt101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphastt101&show_icons=true&locale=en" alt="AlphasT101's stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphastt101&" alt="alphastt101" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphastt101&" alt="AlphasT101's commit streak" /></p>
