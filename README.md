@@ -74,3 +74,6 @@
 <p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=alphastt101&theme=nightowl&hide_border=true" alt="AlphasT101's github streak" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alphastt101&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="AlphasT101's GitHub Stats" /></p>
+
+
+just a text to keep my strEAK!!!!
