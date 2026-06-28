@@ -1,4 +1,4 @@
-<h3 align="center">Konnichiwa, pro at most of the things I have tried</h3>
+<h3 align="center">pro at most of the things I have tried</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphastt101&label=Profile%20views&color=0e75b6&style=flat" alt="alphastt101" /> </p>
 
