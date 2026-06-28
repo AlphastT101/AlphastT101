@@ -6,9 +6,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/alphast101" target="blank"><img src="https://img.shields.io/twitter/follow/alphast101?logo=twitter&style=for-the-badge" alt="alphast101" /></a> </p> -->
 
-- 📫 My email: *anlexalphast@gmail.com*
-- 📄 My portfolio: [https://me.lumixcore.com](https://me.lumixcore.com)
-- ⚡fact: I built an unlimited range POV RC car.
+- My email: *anlexalphast@gmail.com*
+- My portfolio: [https://me.lumixcore.com](https://me.lumixcore.com)
+- Fact: I built an unlimited range POV RC car.
 
 Python is my primary language, but I speak many others. I build cool stuff, sometimes things that probably shouldn't exist😂
 See my portfolio for more info.
