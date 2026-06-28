@@ -11,8 +11,9 @@
 - ⚡fact: I built an unlimited range POV RC car.
 
 Python is my primary language, but I speak many others. I build cool stuff, sometimes things that probably shouldn't exist😂
+See my portfolio for more info.
 
-<h3 align="left">Languages</h3>
+<!-- <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -66,7 +67,7 @@ Python is my primary language, but I speak many others. I build cool stuff, some
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphastt101&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Top used languages" /></p>
