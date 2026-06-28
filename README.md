@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://gh-trophy.cdnsoft.net?username=alphastt101&theme=algolia&no-frame=true" alt="alphastt101" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alphast101" target="blank"><img src="https://img.shields.io/twitter/follow/alphast101?logo=twitter&style=for-the-badge" alt="alphast101" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/alphast101" target="blank"><img src="https://img.shields.io/twitter/follow/alphast101?logo=twitter&style=for-the-badge" alt="alphast101" /></a> </p> -->
 
 - 📫 My email: *anlexalphast@gmail.com*
 - 📄 My portfolio: [https://me.lumixcore.com](https://me.lumixcore.com)
