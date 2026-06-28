@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/alphast101" target="blank"><img src="https://img.shields.io/twitter/follow/alphast101?logo=twitter&style=for-the-badge" alt="alphast101" /></a> </p>
 
-- 📫 My eMaIl: *anlexalphast@gmail.com*
-- 📄 My site and things: [https://owner.xet.one](https://owner.xet.one)
-- ⚡fact: *I drove a vehicle at 190km/h*
+- 📫 My email: *anlexalphast@gmail.com*
+- 📄 My portfolio: [https://me.lumixcore.com](https://me.lumixcore.com)
+- ⚡fact: I built an unlimited range POV RC car.
 
- My primary coding language is python, I can code websites as well. My most popular project is [XET](https://xet.one). Trying to learn Dart and android things, I am currently a student.
+Python is my primary language, but I speak many others. I build cool stuff, sometimes things that probably shouldn't exist😂
 
 <h3 align="left">Languages</h3>
 <p align="left">
